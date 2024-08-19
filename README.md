@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fredric-k
+- 👋 Hi, I’m Fredrick
 - 👀 I’m interested in Tech, Science, Music and Life.
 - 🌱 I’m currently learning Computer Science.
 - 💞️ I’m looking to collaborate and learn
